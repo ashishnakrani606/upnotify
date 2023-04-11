@@ -3,7 +3,6 @@ import stepFourImg from '@/assets/images/step-four.png';
 import Image from 'next/image'
 
 const ListOfJobs = ({}) => {
-
     return (
         <>
             <div className='w-full text-center'>

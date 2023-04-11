@@ -3,7 +3,6 @@ import stepTwoImg from '@/assets/images/step-two.png';
 import Image from 'next/image'
 
 const CreateNewScrape = ({}) => {
-
     return (
         <>
          <div>
